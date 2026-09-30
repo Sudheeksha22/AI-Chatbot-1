@@ -1,0 +1,6 @@
+ Python 3.x
+VS Code
+Internet connection
+Streamlit
+Ollama
+Llama 3.2 model
